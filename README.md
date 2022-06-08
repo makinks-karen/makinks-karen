@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @makin-karen
-- 🌱 meu email e 
-
+- 👋 meu nome é @makin-karen
+- 👍Eu estou interessado em aprender a progamar novas línguagens
+-🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
